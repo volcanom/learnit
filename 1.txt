@@ -1,3 +1,4 @@
 test
 1
 12
+open test
